@@ -70,7 +70,7 @@ namespace MagicVillaAPI.Migrations
                         {
                             Id = 1,
                             Amenity = "",
-                            CreatedDate = new DateTime(2022, 12, 12, 13, 12, 56, 544, DateTimeKind.Local).AddTicks(6874),
+                            CreatedDate = new DateTime(2022, 12, 13, 11, 26, 43, 572, DateTimeKind.Local).AddTicks(7776),
                             Details = "Fusce 11 tincidunt maximus leo, sed scelerisque massa auctor sit amet. Donec ex mauris, hendrerit quis nibh ac, efficitur fringilla enim.",
                             ImageUrl = "https://dotnetmasteryimages.blob.core.windows.net/bluevillaimages/villa3.jpg",
                             Name = "Royal Villa",
@@ -83,7 +83,7 @@ namespace MagicVillaAPI.Migrations
                         {
                             Id = 2,
                             Amenity = "",
-                            CreatedDate = new DateTime(2022, 12, 12, 13, 12, 56, 544, DateTimeKind.Local).AddTicks(6924),
+                            CreatedDate = new DateTime(2022, 12, 13, 11, 26, 43, 572, DateTimeKind.Local).AddTicks(7828),
                             Details = "Fusce 11 tincidunt maximus leo, sed scelerisque massa auctor sit amet. Donec ex mauris, hendrerit quis nibh ac, efficitur fringilla enim.",
                             ImageUrl = "https://dotnetmasteryimages.blob.core.windows.net/bluevillaimages/villa1.jpg",
                             Name = "Premium Pool Villa",
@@ -96,7 +96,7 @@ namespace MagicVillaAPI.Migrations
                         {
                             Id = 3,
                             Amenity = "",
-                            CreatedDate = new DateTime(2022, 12, 12, 13, 12, 56, 544, DateTimeKind.Local).AddTicks(6926),
+                            CreatedDate = new DateTime(2022, 12, 13, 11, 26, 43, 572, DateTimeKind.Local).AddTicks(7831),
                             Details = "Fusce 11 tincidunt maximus leo, sed scelerisque massa auctor sit amet. Donec ex mauris, hendrerit quis nibh ac, efficitur fringilla enim.",
                             ImageUrl = "https://dotnetmasteryimages.blob.core.windows.net/bluevillaimages/villa4.jpg",
                             Name = "Luxury Pool Villa",
@@ -109,7 +109,7 @@ namespace MagicVillaAPI.Migrations
                         {
                             Id = 4,
                             Amenity = "",
-                            CreatedDate = new DateTime(2022, 12, 12, 13, 12, 56, 544, DateTimeKind.Local).AddTicks(6929),
+                            CreatedDate = new DateTime(2022, 12, 13, 11, 26, 43, 572, DateTimeKind.Local).AddTicks(7834),
                             Details = "Fusce 11 tincidunt maximus leo, sed scelerisque massa auctor sit amet. Donec ex mauris, hendrerit quis nibh ac, efficitur fringilla enim.",
                             ImageUrl = "https://dotnetmasteryimages.blob.core.windows.net/bluevillaimages/villa5.jpg",
                             Name = "Diamond Villa",
@@ -122,7 +122,7 @@ namespace MagicVillaAPI.Migrations
                         {
                             Id = 5,
                             Amenity = "",
-                            CreatedDate = new DateTime(2022, 12, 12, 13, 12, 56, 544, DateTimeKind.Local).AddTicks(6932),
+                            CreatedDate = new DateTime(2022, 12, 13, 11, 26, 43, 572, DateTimeKind.Local).AddTicks(7837),
                             Details = "Fusce 11 tincidunt maximus leo, sed scelerisque massa auctor sit amet. Donec ex mauris, hendrerit quis nibh ac, efficitur fringilla enim.",
                             ImageUrl = "https://dotnetmasteryimages.blob.core.windows.net/bluevillaimages/villa2.jpg",
                             Name = "Diamond Pool Villa",
