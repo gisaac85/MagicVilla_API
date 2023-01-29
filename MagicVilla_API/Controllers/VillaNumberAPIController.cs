@@ -36,7 +36,7 @@ namespace MagicVilla_API.Controllers
         [ProducesResponseType(StatusCodes.Status200OK)]
         public async Task<ActionResult<APIResponse>> GetVillaNumbers()
         {
-            _logger.Log("Getting All Villas", "info");
+            _logger.Log("Getting All VillaNumbers", "info");
 
             try
             {
@@ -66,7 +66,7 @@ namespace MagicVilla_API.Controllers
             {
                 if (id == 0)
                 {
-                    _logger.Log("Get villa with Id:" + id, "error");
+                    _logger.Log("Get villaNumber with Id:" + id, "error");
                     _response.StatusCode = HttpStatusCode.BadRequest;
                     return BadRequest(_response);
                 }
